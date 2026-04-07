@@ -4,15 +4,6 @@ A digital marketing project aimed at promoting quality education for girls in Pa
 
 ## 🎯 Promoting Quality Education for Girls in Pakistan
 
-### 👩‍🎓 Student Information
-
-* **Name:** Maryam Ghaffar
-* **Course:** Digital Marketing
-* **University:** Lahore College for Women University
-* **Session:** 2024–2028
-
----
-
 ## 🌍 Project Overview
 
 This project is based on **Sustainable Development Goal 4 (Quality Education)**.
